@@ -1,0 +1,15 @@
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\bin\Debug\net8.0\Screen-Sound-OO.exe
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\bin\Debug\net8.0\Screen-Sound-OO.deps.json
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\bin\Debug\net8.0\Screen-Sound-OO.runtimeconfig.json
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\bin\Debug\net8.0\Screen-Sound-OO.dll
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\bin\Debug\net8.0\Screen-Sound-OO.pdb
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\obj\Debug\net8.0\Screen-Sound-OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\obj\Debug\net8.0\Screen-Sound-OO.AssemblyInfoInputs.cache
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\obj\Debug\net8.0\Screen-Sound-OO.AssemblyInfo.cs
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\obj\Debug\net8.0\Screen-Sound-OO.csproj.CoreCompileInputs.cache
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\obj\Debug\net8.0\Screen-Sound-OO.sourcelink.json
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\obj\Debug\net8.0\Screen-Sound-OO.dll
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\obj\Debug\net8.0\refint\Screen-Sound-OO.dll
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\obj\Debug\net8.0\Screen-Sound-OO.pdb
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\obj\Debug\net8.0\Screen-Sound-OO.genruntimeconfig.cache
+C:\Users\marcilio\Documents\GitHubPessoal\Screen-Sound-OO\obj\Debug\net8.0\ref\Screen-Sound-OO.dll
