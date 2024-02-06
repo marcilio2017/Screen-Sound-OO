@@ -1,12 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Specialized;
-using System.Xml;
-
+﻿
 Musica musica1 = new Musica();
-musica1.nome = "Roxanne";
-musica1.artista = "The Police";
-musica1.duracao = 5;
-musica1.disponivel = true;
-Console.WriteLine(musica1.nome);
+musica1.Nome = "Roxanne";
+musica1.Artista = "The Police";
+musica1.Duracao = 275;
+musica1.Disponivel = true;
+Console.WriteLine(musica1.Disponivel);
+
+musica1.ExibirFichaTecnica();
+Console.WriteLine(musica1.DescricaoResumida);
 
 
